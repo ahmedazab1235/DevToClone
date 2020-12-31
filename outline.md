@@ -4,6 +4,7 @@ Apps:
     *auther
     *Title
     *content
+    *image
     *Love
     *unicorn
     *share List
